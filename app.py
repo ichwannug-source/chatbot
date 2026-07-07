@@ -81,7 +81,7 @@ Berikan penjelasan yang terstruktur, teknis namun mudah dipahami, dan gunakan is
 
 # Konfigurasi Model
 model = genai.GenerativeModel(
-    model_name='gemini-1.5-flash-001',
+    model_name='gemini-3.5-flash',
     system_instruction=system_prompt
 )
 
