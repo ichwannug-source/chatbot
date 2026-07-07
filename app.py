@@ -18,7 +18,7 @@ if not api_key:
 
 # Konfigurasi SDK Google
 genai.configure(api_key=api_key)
-model = genai.GenerativeModel('gemini-1.5-flash-latest')
+model = genai.GenerativeModel('gemini-3.5-flash')
 
 # 2. Inisialisasi memori Streamlit dan sesi chat Gemini
 if "messages" not in st.session_state:
