@@ -1,2 +1,2 @@
 # chatbot
-# Asisten bagi pemula yang ingin mepelajari dasar-dasar keilmuan Pembangkit Listrik Tenaga Surya
+# Asisten bagi pemula yang ingin mempelajari dasar-dasar keilmuan Pembangkit Listrik Tenaga Surya
